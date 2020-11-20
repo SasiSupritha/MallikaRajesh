@@ -6,11 +6,72 @@
     background-size: cover;
 }
 
-.button {
+.detailed-view-bg-container-1 {
+    background-image: url("https://res.cloudinary.com/dz2epch0b/image/upload/v1605876498/10_qe7js7.jpg");
+    background-size: cover;
+}
+
+.last {
+    margin: auto;
+    margin-top: 10px;
+    background-color: white;
+    width: 50vh;
+    border-radius: 20px;
+    font-size: 20px;
+    color: blue;
+    font-weight: bold;
+    font-family: Bree Serif;
     text-align: center;
 }
 
-.detailed-view-heading {
+.btn {
+    height: 70px;
+    width: 160px;
+}
+
+.button1 {
+    margin: auto;
+    height: 50px;
+    width: 100px;
+}
+
+.button {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.green {
+    color: green;
+}
+
+.orange {
+    color: orange;
+}
+
+.pink {
+    color: magenta;
+}
+
+.font {
+    font-size: 30px;
+}
+
+.teal {
+    color: teal;
+}
+
+.text {
+    font-size: 70px;
+    font-family: "Serif";
+    color: rgb(113, 231, 44);
+}
+
+.para-1 {
+    font-size: 20px;
+    font-family: Bree Serif;
+}
+
+.dtailed-view-heading {
     color: blue;
     font-family: "Roboto";
     font-size: 28px;
@@ -19,19 +80,25 @@
     text-align: center;
 }
 
+.navbar-image {
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+}
+
 .detailed-view-card-container {
     background-color: white;
+    border-radius: 10px;
+    padding: 12px;
+    margin-top: 10px;
     border-bottom-right-radius: 8px;
     border-bottom-left-radius: 8px;
 
 }
 
 .detailed-view-card-heading {
-    color: #0f0e46;
-    font-family: "Roboto";
-    font-size: 28px;
-    font-weight: bold;
-    text-align: center;
+    font-family: "Lobster";
+    font-size: 25px;
 }
 
 .detailed-view-card-description {
@@ -46,8 +113,18 @@
     padding: 16px;
 }
 
-
 .container {
+    text-align: center;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.container-1 {
+    background-color: orange;
+    width: 40vh;
+    color: white;
+    margin: auto;
+    display: block;
     text-align: center;
     border-radius: 20px;
 }
@@ -60,3 +137,5 @@
     color: White;
     font-size: 30px;
 }
+
+
